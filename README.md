@@ -21,4 +21,4 @@ of the proposed system is presented to establish the basis for future analysis o
 toolpath generation. More broadly, the work positions the proposed architecture as a candidate middle ground between conventional
 Cartesian printers, head–table 5-axis systems, and fully articulated robotic additive manufacturing platforms.
 
-**[Read the paper]([https://tlimato.github.io/Analysis_of_Existing_5_Axis_FFF_Sys_and_Proposal_of_a_CoreXY_Based_Distributed_Rotation_System/])**
+**[Read the paper](https://tlimato.github.io/Analysis_of_Existing_5_Axis_FFF_Sys_and_Proposal_of_a_CoreXY_Based_Distributed_Rotation_System/)**
